@@ -1,4 +1,8 @@
 class Dog
+  #bark methoe
+  def bark
+    puts "Woof!"
+  end
 end
 
 fido = Dog.new
